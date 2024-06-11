@@ -1,0 +1,116 @@
+    @media screen and (min-width: 500px) {
+
+    
+
+    
+body {background-color: hsl(187, 76%, 52%);
+}
+}
+
+
+h1, h2, h3, h4 {color: aliceblue;}
+.p1 {font-size: 200%;
+    text-align: center;
+    border-color: #9845e6;
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #9845e6;
+    padding-top: 1%;
+    padding-bottom: 1%;}
+
+    .p2 {font-size: 150%;
+    text-align:center;
+    border-color: aqua;
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 55%;
+    background-color: hsl(271, 82%, 50%);
+    padding-top: 1%;}
+
+.p3 {font-size: 220;
+    text-align: center;
+    border-color: hsl(239, 78%, 52%);
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 60%;
+    margin-right: 20%;
+    background-color: hsl(187, 78%, 58%);
+    padding-top: 1%;
+    padding-bottom: 1%;}
+
+
+.p4 {font-size: 200;
+    text-align: center;
+    border-color: hsl(0, 78%, 48%);
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: hsl(7, 76%, 59%);
+padding-top: 1% }
+
+.p5 {font-size: 200;
+    text-align: center;
+    border-color: #c7db12;
+    border-width: 6px;
+    border-style:groove ;
+    margin-left: 24%;
+    margin-right: 50%;
+    background-color: rgb(228, 147, 25);
+padding-top: 1% }
+
+
+.p6{font-size: 200;
+    text-align: center;
+    border-color: hsl(27, 86%, 46%);
+    border-width: 6px;
+    border-style:groove ;
+    margin-left: 50%;
+    margin-right: 24%;
+    background-color: #da942d;
+padding-top: 1% }
+
+.p7{font-size: 200;
+    text-align: center;
+    border-color: rgb(80, 218, 16);
+    border-width: 6px;
+    border-style:groove ;
+    margin-left: 24%;
+    margin-right: 50%;
+    background-color: hsl(78, 70%, 52%);
+padding-top: 1% }
+
+.p8{font-size: 200;
+    text-align: center;
+    border-color: #da1010;
+    border-width: 6px;
+    border-style:groove ;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: hsl(300, 70%, 52%);
+padding-top: 1% }
+
+.p9{font-size: 200;
+    text-align: center;
+    border-color: hsl(182, 86%, 46%);
+    border-width: 6px;
+    border-style:groove ;
+    margin-left: 24%;
+    margin-right: 50%;
+    background-color: hwb(246 18% 15%);
+padding-top: 1% }
+
+.p10{font-size: 200;
+    text-align: center;
+    border-color: rgb(171, 16, 218);
+    border-width: 6px;
+    border-style:groove ;
+    margin-left: 50%;
+    margin-right: 24%;
+    background-color: rgb(46, 92, 217);
+padding-top: 1% }
+
+
